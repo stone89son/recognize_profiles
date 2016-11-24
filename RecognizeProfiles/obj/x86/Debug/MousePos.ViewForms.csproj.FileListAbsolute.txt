@@ -1,0 +1,37 @@
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\lena.jpg
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\MousePos.ViewForms.exe
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\MousePos.ViewForms.pdb
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.CV.dll
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.CV.UI.dll
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.Util.dll
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\ZedGraph.dll
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.CV.xml
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.CV.UI.xml
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\bin\Debug\Emgu.Util.xml
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.MainForm.resources
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.Properties.Resources.resources
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.csproj.GenerateResource.Cache
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.exe
+c:\users\richard.algarve\documents\visual studio 2010\Projects\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.pdb
+c:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\x86\lena.jpg
+c:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\x86\MousePos.ViewForms.exe
+c:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\x86\MousePos.ViewForms.pdb
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.exe
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.pdb
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.MainForm.resources
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.Properties.Resources.resources
+C:\Users\Richard\Desktop\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal-cuda 2.4.10.1940\bin\x86\lena.jpg
+C:\Emgu\emgucv-windows-universal-cuda 2.4.10.1940\bin\x86\MousePos.ViewForms.exe
+C:\Emgu\emgucv-windows-universal-cuda 2.4.10.1940\bin\x86\MousePos.ViewForms.pdb
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.exe
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.pdb
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.csprojResolveAssemblyReference.cache
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.MainForm.resources
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.Properties.Resources.resources
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.csproj.GenerateResource.Cache
+E:\Learning\Emgucv\bin\x86\MousePos.ViewForms.exe
+E:\Learning\Emgucv\bin\x86\MousePos.ViewForms.pdb
+E:\Learning\Emgucv\bin\x86\lena2.jpg
+E:\Learning\Emgucv\Emgu.CV.Example\ResgatarPosicaoMouse\ResgatarPosicaoMouse\MousePos.ViewForms\obj\x86\Debug\MousePos.ViewForms.frmTemplateBuilder.resources
